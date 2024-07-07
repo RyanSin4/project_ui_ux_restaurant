@@ -23,5 +23,6 @@ Customer Reviews: Testimonials from satisfied customers.
 Location & Contact Information: Google Maps integration and contact details.
 
 Social Media Links: Icons linking to the restaurant's social media profiles.
+
 ![Screenshot 2024-07-08 031544](https://github.com/RyanSin4/project_ui_ux_restaurant/assets/96691063/5e27f620-6a15-4a0c-b50c-f5e5839180cf)
 
